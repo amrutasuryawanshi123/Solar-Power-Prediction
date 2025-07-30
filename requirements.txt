@@ -1,0 +1,8 @@
+flask
+pandas
+plotly
+prophet
+scikit-learn
+numpy
+joblib
+google-generativeai 
